@@ -7,3 +7,6 @@
 # ignoring nohup log when
 # running jupyter from background
 nohup.out
+
+# ignoring temp script
+tmp_*.sh
