@@ -9,4 +9,4 @@
 nohup.out
 
 # ignoring temp script
-tmp_*.sh
+tmp_*.*
