@@ -8,5 +8,5 @@
 # running jupyter from background
 nohup.out
 
-# ignoring temp script
-tmp_*.*
+# ignoring temp_ pattern
+tmp_*
