@@ -10,6 +10,9 @@ This repository contains answers from Machtelt Garrels's book exercise.
 | :-------- | :----- | :------ | :------ |
 | [Bash Guide for Beginners] | Machtelt Garrels | 1.11 | 20081227 Edition |
 
+## How to Use
+Please install jupyter bash kernel from this [repository](https://github.com/takluyver/bash_kernel). After that, you can just run `jupyter notebook`.
+
 ## Credits
 
 Book reference: [tldp.org](http://tldp.org/LDP/Bash-Beginners-Guide/html/index.html)
